@@ -7,7 +7,7 @@ import Action from './Action';
 export default class Header extends React.Component {
     render() {
         return (
-            <header className="site-header" style="background-color:powderblue;">
+            <header className="site-header" >
               <div className="container container--lg">
                 <nav className="navbar" aria-label="Main Navigation">
                   <Link className="sr-only" href="#content">Skip to main content</Link>
