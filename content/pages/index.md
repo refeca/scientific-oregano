@@ -23,7 +23,7 @@ sections:
       background_image: images/dianne-ameter.jpg
       background_image_opacity: 50
       background_image_size: cover
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
   - type: features_section
     title: coso lope
     features:
