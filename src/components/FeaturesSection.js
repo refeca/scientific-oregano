@@ -11,7 +11,7 @@ export default class FeaturesSection extends React.Component {
             <section className="section section--features">
               {_.get(section, 'title', null) && (
               <div className="container container--md align-center">
-                <h2 className="section__title" [style.color="fontColor">{_.get(section, 'title', null)}</h2>
+                <h2 className="section__title" style.color="fontColor">{_.get(section, 'title', null)}</h2>
               </div>
               )}
               <div className="container container--lg">
