@@ -29,7 +29,7 @@ sections:
     title: coso lope
     align: left
     background:
-        background_color: yellow
+        background_color: 
     features:
       - title: Feature 1
         content: >-
