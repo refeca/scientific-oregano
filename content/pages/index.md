@@ -9,7 +9,6 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: 
         background_color: blue
       - label: Contact Us
         url: /contact
