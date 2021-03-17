@@ -27,6 +27,7 @@ sections:
       background_image_repeat: no-repeat
   - type: features_section
     title: coso lope
+    align
     features:
       - title: Feature 1
         content: >-
