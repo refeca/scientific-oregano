@@ -9,7 +9,8 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: alert
+        style: 
+            
       - label: Contact Us
         url: /contact
         style: secondary
