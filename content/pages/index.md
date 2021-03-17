@@ -54,7 +54,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         background:
-      background_color: red
+            background_color: red
         actions:
           - label: Learn More
             url: /features
