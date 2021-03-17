@@ -10,7 +10,7 @@ sections:
       - label: Learn More
         url: /features
         style: 
-            font
+            font_color: 
       - label: Contact Us
         url: /contact
         style: secondary
