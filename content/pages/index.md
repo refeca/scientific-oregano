@@ -21,7 +21,7 @@ sections:
     has_background: true
     background:
       background_color: red
-      background_image: images/dianne-ameter.jpg
+      //background_image: images/dianne-ameter.jpg
       background_image_opacity: 50
       background_image_size: cover
       background_image_repeat: no-repeat
