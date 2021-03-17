@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-      background_color: 
+      background_color: blue
     actions:
       - label: Learn More
         url: /features
